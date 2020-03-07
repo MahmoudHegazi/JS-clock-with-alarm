@@ -8,3 +8,4 @@ I used javascript 6 to create an hour with alarm, it's a single page javascript 
 ## Note:
 *  if you want set the alram to 1:15 am, insert the values like this 15 1 
 *  1 = 1am , 13 = 1pm
+*  the app accept only 1 alarm only if you need another one click F5 or right click then click on refresh. 
