@@ -3,7 +3,7 @@ I used javascript 6 to create an hour with alarm, it's a single page javascript 
 
 
 
-![image](clock.JPG)
+![image](myclock.JPG)
 
 ## Note:
 *  if you want set the alram to 1:15 am, insert the values like this 15 1 
